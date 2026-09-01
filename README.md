@@ -1,4 +1,4 @@
-# ⚡ Binance Lightning Bolt — $BOLT
+# Binance Lightning Bolt ($BOLT)
 
 > The Lightning of BNB Chain  
 > Foundry project — contracts, tests, deployment scripts
